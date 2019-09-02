@@ -1,0 +1,11 @@
+shadowsocks-go:
+1 wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-go.sh
+2 chmod +x shadowsocks-go.sh
+3./shadowsocks-go.sh 2>&1 | tee shadowsocks-go.log
+  
+=========================================================================================================================
+  
+kcptun:
+1 wget --no-check-certificate https://github.com/kuoruan/shell-scripts/raw/master/kcptun/kcptun.sh
+2 chmod +x ./kcptun.sh
+3 ./kcptun.sh
