@@ -1,5 +1,4 @@
-# Shadowsocks
-
+# Shadowsocks(以下两种任选一种)
 ## 1.安装 shadowsoksR
 ### 1 wget --no-check-certificate https://github.com/ly1836/vpn/blob/master/shadowsocksR.sh
 ### 2 chmod +x shadowsocksR.sh
