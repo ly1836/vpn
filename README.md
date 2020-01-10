@@ -11,7 +11,8 @@
 
 
 # kcptun
-### 1 wget --no-check-certificate https://github.com/ly1836/vpn/blob/master/kcptun.sh
+### 1 wget --no-check-certificate -O kcptun.sh https://github.com/kuoruan/shell-scripts/raw/master/kcptun/kcptun.sh
+sh kcptun.sh
 ### 2 chmod +x ./kcptun.sh
 ### 3 ./kcptun.sh
 
